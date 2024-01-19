@@ -25,7 +25,7 @@ O projeto demonstra o uso da inteligência artificial na programação e consist
 
 
 
-## 🛣️ Endpoints
+## 🛣️ API Endpoints
 
 #### Retorna todos os prompts
 

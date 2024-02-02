@@ -9,11 +9,9 @@ O projeto demonstra o uso da inteligência artificial na programação e consist
 
 
 
-## 📸 Preview
+## 🎬 Preview
 
-<p align="center">
-  <img alt="upload.ai" src=".github/preview.png" width="100%">
-</p>
+https://github.com/nicole-nmdeveloper/upload.ai-nlw/assets/102914172/7341e6ca-a19f-46ca-ae9d-eba049048076
 
 
 
